@@ -7,6 +7,10 @@ InterFi is a web app that, thanks to the [Interledger](https://interledger.org/)
 - NodeJS
 - Interledger connector - For this web app, you can use: https://testilpconnector.peerpayapp.com/
 
+If you can use your own ILP connector, for these repos: 
+- https://github.com/nescampos/ilp-sdk
+- https://github.com/kava-labs/connector-config
+
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/7274106/187524673-68829b5e-425b-4edb-afdc-542bd9c8210e.png)
